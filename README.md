@@ -1,4 +1,4 @@
-### 👋 Han Woo Jun(Savien) / Savienosim visus kopā!
+### 👋 Woo Jun Han(Savien) / Savienosim visus kopā!
 > 열정, 도전, 협업, 새로운 지식에 대한 관심으로 사람 간의 연결을 통해 가치 실현을 돕는 개발자, 한우준입니다.
 >
 > A developer who helps realize value through connections between people with passion, challenge, collaboration, and interest in new knowledge.
