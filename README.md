@@ -14,6 +14,7 @@
 - UMC 5기 Plan challenger
 - 9oormthon Univ 경희대 2기
 - 2024 KHU SW 멤버십
+- 2024 경희대 컴퓨터공학과 스터디 Web 트랙장
   
 - 🏆 2023 경희대 컴퓨터공학과 스터디 트랙 대상
 - 🏆 5th UMC Seoul Hackathon 최우수상
@@ -22,7 +23,7 @@
 - 🥷 [FE Ninjas](https://github.com/FE-ninjas) : 주간 FE 스터디
 - 🔖 [REINPUT](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_24_FE) : 인사이트 아카이빙/리마인드 자동화 서비스
 - 🎨 [d!no](https://github.com/2024-dino) 
-- ⚙️ [wwa](https://github.com/Team-inglo) 
+- ⚙️ [wwa](https://github.com/Team-inglo)
 ### 📞 Contact
 - ✉️ mylittlesentry@gmail.com
 - 🧑🏻‍💻 [blog](https://velog.io/@mrmirror21/posts)
