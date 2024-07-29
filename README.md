@@ -20,7 +20,7 @@
 - 🏆 5th UMC Seoul Hackathon 최우수상
 
 ### 🔍 Currently Working/Studying on..
-- 🎬 [KHU Web Track Study Lecture](https://github.com/FE-ninjas](https://youtube.com/playlist?list=PLob9VEo4J4xlxmgWMRe1ixty1Bsv_xbLd)) : 2024 경희대 Web 트랙 스터디 강의
+- 🎬 [KHU Web Track Study Lecture](https://youtube.com/playlist?list=PLob9VEo4J4xlxmgWMRe1ixty1Bsv_xbLd) : 2024 경희대 Web 트랙 스터디 강의
 - 🥷 [FE Ninjas](https://github.com/FE-ninjas) : 주간 FE 스터디
 - 🔖 [REINPUT](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_24_FE) : 인사이트 아카이빙/리마인드 자동화 서비스
 - 🎨 [d!no](https://github.com/2024-dino) 
