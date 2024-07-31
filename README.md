@@ -18,6 +18,7 @@
   
 - 🏆 2023 경희대 컴퓨터공학과 스터디 트랙 대상
 - 🏆 5th UMC Seoul Hackathon 최우수상
+- 🏆 한국스마트정보교육원 24년 상반기 SW 개발공모전 최우수상
 
 ### 🔍 Currently Working/Studying on..
 - 🎬 [KHU Web Track Study Lecture](https://youtube.com/playlist?list=PLob9VEo4J4xlxmgWMRe1ixty1Bsv_xbLd) : 2024 경희대 Web 트랙 스터디 강의
