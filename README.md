@@ -14,7 +14,8 @@
 - UMC 5기 Plan challenger
 - 9oormthon Univ 경희대 2기
 - 2024 KHU SW 멤버십
-- 2024 경희대 컴퓨터공학과 스터디 Web 트랙장
+- 2024 경희대 컴퓨터공학과 트랙 스터디 Web 트랙장
+- GDSC KHU 24-25 Frontend Core member
   
 - 🏆 2023 경희대 컴퓨터공학과 스터디 트랙 대상
 - 🏆 5th UMC Seoul Hackathon 최우수상
