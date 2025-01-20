@@ -15,20 +15,23 @@
 - 9oormthon Univ 경희대 2기
 - 2024 KHU SW 멤버십
 - 2024 경희대 컴퓨터공학과 트랙 스터디 Web 트랙장
-- GDSC KHU 24-25 Frontend Core member
+- GDGoC KHU 24-25 Frontend Core member
   
 - 🏆 2023 경희대 컴퓨터공학과 트랙 스터디 프로젝트 대상
 - 🏆 5th UMC Seoul Hackathon 최우수상
 - 🏆 한국스마트정보교육원 24년 상반기 SW 개발공모전 최우수상
+- 🏆 2024 공개sw개발자대회 학생부문 우수작 등재
 
 ### 🔍 Currently Working/Studying on..
+- ⚙️ [Giggle](https://github.com/Team-inglo/Giggle-Web) : 외국인 유학생을 위한 아르바이트 플랫폼
+- 🔖 [REINPUT](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_24_FE) : 인사이트 아카이빙/리마인드 자동화 서비스
 - 🎬 [KHU Web Track Study Lecture](https://youtube.com/playlist?list=PLob9VEo4J4xlxmgWMRe1ixty1Bsv_xbLd) : 2024 경희대 Web 트랙 스터디 강의
 - 🥷 [FE Ninjas](https://github.com/FE-ninjas) : 주간 FE 스터디
-- 🔖 [REINPUT](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_24_FE) : 인사이트 아카이빙/리마인드 자동화 서비스
-- 🎨 [d!no](https://github.com/2024-dino) 
-- ⚙️ [Giggle](https://github.com/Team-inglo)
+
+
 ### 📞 Contact
 - ✉️ mylittlesentry@gmail.com
+- 📚 [post library](https://beautiful-diploma-aa8.notion.site/Post-Library-1707e53ce61280289702f80718292e39?pvs=4)
 - 🧑🏻‍💻 [blog](https://velog.io/@mrmirror21/posts)
 <!--
 **MrMirror21/MrMirror21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
