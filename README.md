@@ -25,10 +25,10 @@
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMirror21&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMirror21&layout=compact&theme=tokyonight" height="170" />
+  
+  ![MrMirror21's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MrMirror21&show_icons=true&theme=tokyonight)
+  ![Top langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=MrMirror21&layout=compact&show_icons=true&theme=tokyonight)
 </div>
 
 ## 🔥 Contribution Graph
