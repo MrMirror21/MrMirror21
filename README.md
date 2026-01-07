@@ -44,8 +44,6 @@
   ![AWS](https://img.shields.io/badge/AWS_Cloud_Club_경희대_1기-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
   ![UMC](https://img.shields.io/badge/UMC_5기_Plan_challenger-4285F4?style=flat-square&logoColor=white)
   ![9oormthon](https://img.shields.io/badge/9oormthon_Univ_경희대_2기-00B388?style=flat-square&logoColor=white)
-  ![KHU SW](https://img.shields.io/badge/2024_KHU_SW_멤버십-512BD4?style=flat-square&logoColor=white)
-  ![Web Track](https://img.shields.io/badge/2024_경희대_컴퓨터공학과_Web_트랙장-E44D26?style=flat-square&logoColor=white)
   ![GDGoC](https://img.shields.io/badge/GDGoC_KHU_Frontend_Core_member-4285F4?style=flat-square&logo=google&logoColor=white)
   
 </div>
@@ -64,9 +62,7 @@
 <div align="center">
   
   [![Giggle](https://img.shields.io/badge/⚙️_Giggle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-inglo/Giggle-Web)
-  [![REINPUT](https://img.shields.io/badge/🔖_REINPUT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_24_FE)
   [![KHU Web Track](https://img.shields.io/badge/🎬_KHU_Web_Track_Study_Lecture-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLob9VEo4J4xlxmgWMRe1ixty1Bsv_xbLd)
-  [![FE Ninjas](https://img.shields.io/badge/🥷_FE_Ninjas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FE-ninjas)
   
 </div>
 
