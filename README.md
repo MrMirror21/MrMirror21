@@ -61,7 +61,7 @@
 
 <div align="center">
 
-  [![Sephan](https://img.shields.io/badge//🗳️Sephan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhatShouldWeDo)
+  [![Sephan](https://img.shields.io/badge/🗳️Sephan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhatShouldWeDo)
   [![Giggle](https://img.shields.io/badge/⚙️_Giggle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-inglo/Giggle-Web)
   [![KHU Web Track](https://img.shields.io/badge/🎬_KHU_Web_Track_Study_Lecture-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLob9VEo4J4xlxmgWMRe1ixty1Bsv_xbLd)
   
